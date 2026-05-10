@@ -1,4 +1,4 @@
-# Batocera Obsidian Theme
+# Obsidian Theme
 
 A clean, bright, and modern **Batocera** theme with light overlays, dark text, soft shadows, rounded corners, and custom wallpaper variants.
 
@@ -18,9 +18,6 @@ This version reworks the original darker Obsidian look into a lighter and more m
 - Rounded panel and overlay styling
 - Custom wallpaper set: **MIX 1–5**
 - Multiple gamelist background variants
-- Optimized for **1080p**
-- Scales well to **720p** and **4K**
-- Tested with **Batocera v41** and **v42**
 
 ## Previews
 
@@ -46,6 +43,7 @@ Tested with:
 
 - **Batocera v41**
 - **Batocera v42**
+- **Batocera v43** (updated)
 
 Recommended resolution:
 
@@ -92,7 +90,8 @@ This theme is based on:
 **ES-A-StarWars-Theme**  
 by **soaremicheledavid (SMD)**
 GitHub:
-[https://github.com/soaremicheledavid/ES-A-StarWars-Theme](https://github.com/soaremicheledavid/ES-A-StarWars-Theme)
+[https://github.com/soaremicheledavid/ES-A-StarWars-Theme]
+(https://github.com/soaremicheledavid/ES-A-StarWars-Theme)
 [https://github.com/soaremicheledavid/](https://github.com/soaremicheledavid/)
 
 ## Author (Obsidian Theme)
@@ -119,4 +118,8 @@ Users and redistributors are responsible for reviewing and complying with the li
 **CC BY-NC-SA 4.0**
 
 See `LICENSE.md` for details.
+
+## Note
+
+This Theme is under active development!
 
